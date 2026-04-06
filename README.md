@@ -28,3 +28,4 @@ A full-stack MERN web application that allows users to track, manage, and organi
 - Vinh Vu
 - Preston Allen
 - Matthew Pinnock
+- Drew Mitchell
